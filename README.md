@@ -2,10 +2,6 @@
 
 ### A passionate FE developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TerkyTerky&label=Profile views&color=0e75b6&style=flat" alt="TerkyTerky" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@TerkyKk" target="blank"><img src="https://img.shields.io/twitter/follow/@TerkyKk?logo=twitter&style=for-the-badge" alt="@TerkyKk" /></a> </p>
-
 - 🔭 I'm currently working on **master degree**
 
 - 🌱 I'm currently learning **agentic coding**
